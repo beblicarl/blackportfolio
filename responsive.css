@@ -1,0 +1,712 @@
+@media only screen and (max-width: 550px){
+    nav{
+        width: 100%;
+    }
+    .logo{
+        width: 30%;
+        margin: 20px 10px;
+    }
+    .EY{
+        font-size: 17px;
+    }
+    .nav-links{
+        width: 70%;
+        justify-content: space-around;
+    }
+    /*MAIN*/
+    main{
+        width: 100%;
+    
+    }
+    .moon{
+        width: 100%;
+    }
+    .portfolio{
+        font-size: 7px;
+        margin-left: 130px;
+        margin-top: 100px;
+    }
+    /*INTRODUCTION*/
+    .introduction{
+        width: 100%;
+        padding-top: 100px;
+    }
+
+    .intro img{
+        width: 300px;
+        height: 200px;
+    }
+
+    .intro p{
+        padding-top: 2px;
+        font-size: 20px;
+    }
+    .working{
+        padding-top: 30px;
+    }
+    .work-section{
+        width: 100%;
+    }
+    .boston img{
+        width: 200px;
+        height: 200px;
+    }
+    .boston h1{
+        font-size: 12px;
+        visibility: visible;
+        margin-top: -20px
+    }
+    .boston p{
+        font-size: 10px;
+        visibility: visible;
+        margin-top: -20px;
+
+    }
+    .sexy-girl{
+        padding-left: 8%;
+    }
+    .sexy-girl img{
+        width: 200px;
+        height: 200px;
+    }
+    .sexy-girl h1{
+        font-size: 12px;
+        visibility: visible;
+        margin-top: -20px;
+
+    }
+    .sexy-girl p{
+        font-size: 10px;
+        visibility: visible;
+        margin-top: -20px;
+
+    }
+    .proxima{
+        margin-top: 4px;
+        padding-left: 8%;
+    }
+    .proxima img{
+        width: 200px;
+        height: 200px;
+    }
+    .proxima h1{
+        font-size: 12px;
+        visibility: visible;
+        margin-top: -20px;
+    }
+    .proxima p{
+        font-size: 10px;
+        visibility: visible;
+        margin-top: -20px;
+
+    }
+
+    .robot{
+        margin-top: 4px;
+        padding-left: 8%;
+    }
+    .robot img{
+        width: 200px;
+        height: 200px;
+    }
+    .robot h1{
+        font-size: 12px;
+        visibility: visible;
+        margin-top: -20px;
+    }
+    .robot p{
+        font-size: 10px;
+        visibility: visible;
+        margin-top: -20px;
+    }
+    /*STAGES*/
+
+    .stages{
+        width: 100%;
+    }
+    .stage-section img{
+        display: none;
+    }
+    /*BRIEF*/
+    .brief-oneone{
+        width: 0%;
+    }
+    .brief-onetwo{
+        width: 100%;
+    }
+    
+    .brief-three h1{
+        font-size: 15px;
+        padding-left: 10px;
+    }
+    .brief-three p{
+        font-size: 12px;
+    }
+    /*Analytics*/
+    .analytics-three br{
+        display: none;
+    }
+    .analytics-oneone{
+        width: 0%;
+    }
+    .analytics-onetwo{
+        width: 100%;
+    }
+    
+    .analytics-three h1{
+        font-size: 14px;
+        padding-right: 40px;
+        margin-left: -15px;
+    }
+    .analytics-three p{
+        font-size: 11px;
+        padding-left: 10px;
+    }
+    /*PROTOTYPING*/
+    
+    .prototyping-oneone{
+        width: 0%;
+    }
+    .prototyping-onetwo{
+        width: 100%;
+    }
+    .prototyping-three h1{
+        font-size: 14px;
+        padding-right: 40px;
+        margin-left: -7px;
+    }
+    .prototyping-three p{
+        font-size: 11px;
+        padding-left: 10px;
+    }
+    .prototyping-three br{
+        display: none;
+    }
+    /*CONCEPT*/
+    .concept-oneone{
+        width: 0%;
+    }
+    .concept-onetwo{
+        width: 100%;
+    }
+    
+    .concept-three h1{
+        font-size: 14px;
+        padding-right: 50px;
+        margin-left: -7px;
+    }
+    .concept-three p{
+        font-size: 11px;
+        padding-right: 10px;
+    }
+    .concept-three br{
+        display: none;
+    }
+    /*DESIGN*/
+    .design-oneone{
+        width: 0%;
+    }
+    .design-onetwo{
+        width: 100%;
+    }
+    
+    .design-three h1{
+        font-size: 14px;
+        padding-right: 40px;
+        margin-left: -7px;
+    }
+    .design-three p{
+        font-size: 11px;
+        padding-left: 10px;
+    }
+    .design-three br{
+        display: none;
+    }
+    /*ADAPTIVE*/
+    .adaptive-oneone{
+        width: 0%;
+    }
+    .adaptive-onetwo{
+        width: 100%;
+    }
+    
+    .adaptive-three h1{
+        font-size: 14px;
+        padding-right: 40px;
+        margin-left: -7px;
+    }
+    .adaptive-three p{
+        font-size: 11px;
+        padding-left: 10px;
+    }
+    .adaptive-three br{
+        display: none;
+    }
+    /*DEVELOPMENT*/
+    .development-oneone{
+        width: 0%;
+    }
+    .development-onetwo{
+        width: 100%;
+    }
+    
+    .development-three h1{
+        font-size: 14px;
+        padding-right: 40px;
+        margin-left: -7px;
+    }
+    .development-three p{
+        font-size: 11px;
+        padding-left: 10px;
+    }
+    .development-three br{
+        display: none;
+    }
+    
+    /*LETS TALK SECTION*/
+    .talk{
+        width: 100%;
+    }
+
+    .talk-right{
+    width: 60%;
+    }
+    .talk-right{
+        font-size: 13px;
+    }
+    .talk-right h1{
+        font-size: 13px;
+    }
+    .talk-right p{
+        font-size: 13px;
+    }
+    .talk-left{
+    width: 40%;
+    }
+    .talk-left h1{
+        font-size: 17px;
+    }
+    .talk-right br{
+    display: none;
+    }
+    input[type="Email"]{
+        width: 170px;
+    }
+    textarea[name="message"]{
+        width: 170px;
+    }
+    input[type="submit"]{
+        width: 170px;
+    }
+    /*FOOTER*/
+    footer h1{
+        font-size: 17px;
+    }
+    footer p{
+        font-size: 13px;
+    }
+    .DY{
+        font-size: 17px;
+    }
+    
+    .end p{
+        font-size: 10px;
+        margin: 10px;
+    }
+}
+/*MIN WIDTH 600px*/
+@media only screen and (min-width: 530px){
+    nav{
+        width: 100%;
+    }
+    .logo{
+        width: 30%;
+        margin: 20px 10px;
+    }
+    .EY{
+        font-size: 17px;
+    }
+    .nav-links{
+        width: 70%;
+        justify-content: space-around;
+    }
+    /*MAIN*/
+    main{
+        width: 100%;
+    
+    }
+    .moon{
+        width: 100%;
+    }
+    .portfolio{
+        font-size: 7px;
+        margin-left: 130px;
+        margin-top: 100px;
+    }
+    /*INTRODUCTION*/
+    .introduction{
+        width: 100%;
+        padding-top: 100px;
+    }
+
+    .intro img{
+        width: 300px;
+        height: 200px;
+    }
+
+    .intro p{
+        padding-top: 2px;
+        font-size: 20px;
+    }
+    .working{
+        padding-top: 30px;
+    }
+    .work-section{
+        width: 100%;
+    }
+    .boston img{
+        width: 200px;
+        height: 200px;
+    }
+    .boston h1{
+        font-size: 12px;
+        visibility: visible;
+        margin-top: -20px
+    }
+    .boston p{
+        font-size: 10px;
+        visibility: visible;
+        margin-top: -20px;
+
+    }
+    .sexy-girl{
+        padding-left: 8%;
+    }
+    .sexy-girl img{
+        width: 200px;
+        height: 200px;
+    }
+    .sexy-girl h1{
+        font-size: 12px;
+        visibility: visible;
+        margin-top: -20px;
+
+    }
+    .sexy-girl p{
+        font-size: 10px;
+        visibility: visible;
+        margin-top: -20px;
+
+    }
+    .proxima{
+        margin-top: 4px;
+        padding-left: 8%;
+    }
+    .proxima img{
+        width: 200px;
+        height: 200px;
+    }
+    .proxima h1{
+        font-size: 12px;
+        visibility: visible;
+        margin-top: -20px;
+    }
+    .proxima p{
+        font-size: 10px;
+        visibility: visible;
+        margin-top: -20px;
+
+    }
+
+    .robot{
+        margin-top: 4px;
+        padding-left: 8%;
+    }
+    .robot img{
+        width: 200px;
+        height: 200px;
+    }
+    .robot h1{
+        font-size: 12px;
+        visibility: visible;
+        margin-top: -20px;
+    }
+    .robot p{
+        font-size: 10px;
+        visibility: visible;
+        margin-top: -20px;
+    }
+    /*STAGES*/
+
+    .stages{
+        width: 100%;
+    }
+    .stage-section img{
+        display: none;
+    }
+    /*BRIEF*/
+    .brief-oneone{
+        width: 0%;
+    }
+    .brief-onetwo{
+        width: 100%;
+    }
+    
+    .brief-three h1{
+        font-size: 15px;
+        padding-left: 10px;
+    }
+    .brief-three p{
+        font-size: 12px;
+    }
+    /*Analytics*/
+    .analytics-three br{
+        display: none;
+    }
+    .analytics-oneone{
+        width: 0%;
+    }
+    .analytics-onetwo{
+        width: 100%;
+    }
+    
+    .analytics-three h1{
+        font-size: 14px;
+        padding-right: 40px;
+        margin-left: -15px;
+    }
+    .analytics-three p{
+        font-size: 11px;
+        padding-left: 10px;
+    }
+    /*PROTOTYPING*/
+    
+    .prototyping-oneone{
+        width: 0%;
+    }
+    .prototyping-onetwo{
+        width: 100%;
+    }
+    .prototyping-three h1{
+        font-size: 14px;
+        padding-right: 40px;
+        margin-left: -7px;
+    }
+    .prototyping-three p{
+        font-size: 11px;
+        padding-left: 10px;
+    }
+    .prototyping-three br{
+        display: none;
+    }
+    /*CONCEPT*/
+    .concept-oneone{
+        width: 0%;
+    }
+    .concept-onetwo{
+        width: 100%;
+    }
+    
+    .concept-three h1{
+        font-size: 14px;
+        padding-right: 50px;
+        margin-left: -7px;
+    }
+    .concept-three p{
+        font-size: 11px;
+        padding-right: 10px;
+    }
+    .concept-three br{
+        display: none;
+    }
+    /*DESIGN*/
+    .design-oneone{
+        width: 0%;
+    }
+    .design-onetwo{
+        width: 100%;
+    }
+    
+    .design-three h1{
+        font-size: 14px;
+        padding-right: 40px;
+        margin-left: -7px;
+    }
+    .design-three p{
+        font-size: 11px;
+        padding-left: 10px;
+    }
+    .design-three br{
+        display: none;
+    }
+    /*ADAPTIVE*/
+    .adaptive-oneone{
+        width: 0%;
+    }
+    .adaptive-onetwo{
+        width: 100%;
+    }
+    
+    .adaptive-three h1{
+        font-size: 14px;
+        padding-right: 40px;
+        margin-left: -7px;
+    }
+    .adaptive-three p{
+        font-size: 11px;
+        padding-left: 10px;
+    }
+    .adaptive-three br{
+        display: none;
+    }
+    /*DEVELOPMENT*/
+    .development-oneone{
+        width: 0%;
+    }
+    .development-onetwo{
+        width: 100%;
+    }
+    
+    .development-three h1{
+        font-size: 14px;
+        padding-right: 40px;
+        margin-left: -7px;
+    }
+    .development-three p{
+        font-size: 11px;
+        padding-left: 10px;
+    }
+    .development-three br{
+        display: none;
+    }
+    
+    /*LETS TALK SECTION*/
+    .talk{
+        width: 100%;
+    }
+
+    .talk-right{
+    width: 60%;
+    }
+    .talk-right{
+        font-size: 13px;
+    }
+    .talk-right h1{
+        font-size: 13px;
+    }
+    .talk-right p{
+        font-size: 13px;
+    }
+    .talk-left{
+    width: 40%;
+    }
+    .talk-left h1{
+        font-size: 17px;
+    }
+    .talk-right br{
+    display: none;
+    }
+    input[type="Email"]{
+        width: 170px;
+    }
+    textarea[name="message"]{
+        width: 170px;
+    }
+    input[type="submit"]{
+        width: 170px;
+    }
+    /*FOOTER*/
+    footer h1{
+        font-size: 17px;
+    }
+    footer p{
+        font-size: 13px;
+    }
+    .DY{
+        font-size: 17px;
+    }
+    
+    .end p{
+        font-size: 10px;
+        margin: 10px;
+    }
+}
+/*MEDIA WIDTH OF 1200*/
+@media(max-width: 1285px){
+    nav{
+        width: 100%;
+    }
+    .logo{
+        width: 40%;
+    }
+    .nav-links{
+        width: 60%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .portfolio{
+        padding-top: 140px;
+    }
+    .boston{
+        padding-right: 20px;
+    }
+    .sexy-girl{
+        padding-left: 20px ;
+    }
+    .proxima{
+        padding-right: 20px;
+    }
+    .robot{
+        padding-left: 20px;
+    }
+} 
+
+
+/*MEDIA WIDTH OF 780*/
+@media (min-width: 770px){
+    .portfolio{
+        font-size: 60px;
+        padding-top: 150px;
+    }
+    .introduction{
+        padding-top: 60px;
+    }
+    .working{
+        padding-top: 50px;
+    }
+    .sexy-girl{
+        padding-left: 8%;
+    }
+
+    .proxima{
+        margin-top: 8%;
+    }
+    .robot{
+        padding-left: 8%;
+    }
+    /*STAGES*/
+    .stages{
+        padding-top: 80px;
+    }
+    /*BRIEF*/
+    .brief-oneone{
+        width: 40%;
+    }
+    .brief-oneone img{
+        width: 170px;
+    }
+    .brief-onetwo{
+        width: 60%;
+    }
+    .brief-onetwo br{
+        display: none;
+    }
+    .brief-onetwo h1{
+        font-size: 17px;
+        padding-right: 10px;
+    }
+    .brief-onetwo p{
+        font-size: 15px;
+        padding-left: 10px;
+    }
+}
