@@ -2,6 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    
 }
 
 nav{
@@ -230,6 +231,7 @@ main{
     background-color: #141414;
     height: auto;
     padding-bottom: 10%;
+    overflow: hidden;
 
 }
 
